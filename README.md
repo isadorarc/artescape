@@ -1,6 +1,6 @@
 # ArtEscape App
 
-ArtEscape is a web application designed to inspire and educate art enthusiasts of all levels. This full stack project is built in collaboration with an international team, offering a unique blend of interactive gameplay and immersive art lessons.
+ArtEscape is a web app game designed to inspire and educate art enthusiasts of all levels. This full stack project is built in collaboration with an international team, offering a unique blend of interactive gameplay and immersive art lessons.
 
 ![ArtEscape App Home](./images/home.png)
 
